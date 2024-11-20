@@ -1,4 +1,8 @@
-// Aim: WAP to get students PCM marks from the user and find the average.Use conditional operator to print if the student is eligible for admission. Eligibility criteria is 50% in PCM
+/*Aim: WAP to get students PCM marks from the user and find the average.Use conditional operator to print if the student is eligible for admission. Eligibility criteria is 50% in PCM.
+Name     : Mohammad Basharat Khan
+Roll No  : 9
+UIN      : 241A009
+Division : A */
 #include<stdio.h>
 int main()
 {
