@@ -1,3 +1,8 @@
+/* Aim: WAP to print basic details on screen and format it using escape sequences.
+Name     : Mohammad Basharat Khan
+Roll No  : 9
+UIN      : 241A009
+Division : A */
 #include<stdio.h>
 int main()
 {
