@@ -1,3 +1,9 @@
+/* Aim: WAP to calculate the sum of matrix 
+Name     : Mohammad Basharat Khan
+Roll No  : 9
+UIN      : 241A009
+Division : A */
+
 #include<stdio.h>
 int main(){
 int arr1[50][50], brr1[50][50], crr1[50][50], i, j ,n;
