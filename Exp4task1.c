@@ -1,3 +1,9 @@
+/* Aim: WAP to find all the prime numbers between two numbers.
+Name     : Mohammad Basharat Khan
+Roll No  : 9
+UIN      : 241A009
+Division : A */
+
 #include<stdio.h>
 int isPrimeNumber(int num);
 
