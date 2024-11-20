@@ -2,8 +2,10 @@
 Expt 3 - Task 1
 Module2: ContolStructure Switch
 Aim: WAP to design a menu driven calculator using switch statement.
-*/
-
+Name     : Mohammad Basharat Khan
+Roll No  : 9
+UIN      : 241A009
+Division : A */
 #include<stdio.h>
 int main(){
  float num1,num2,result;
