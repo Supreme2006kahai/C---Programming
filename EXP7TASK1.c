@@ -1,3 +1,8 @@
+/* Aim: WAP to find the largest element in an array. 
+Name     : Mohammad Basharat Khan
+Roll No  : 9
+UIN      : 241A009
+Division : A */
 #include<stdio.h>
 int main()
 
