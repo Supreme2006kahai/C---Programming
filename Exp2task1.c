@@ -1,8 +1,8 @@
 /*Aim : WAP to find if entered number is even or odd.
 
-Name    :Raj Manoj Kumar Maurya
-Roll no :8
-UIN     :241A008
+Name    :Mohammad Basharat Khan
+Roll no :09
+UIN     :241A009
 Division:A
 */
 
