@@ -3,7 +3,6 @@ Roll No  : 9
 UIN      : 241A009
 Division : A*/
 #include <stdio.h>
-
 // Define a structure to hold employee details
 struct employee {
     int id;
