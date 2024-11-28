@@ -1,5 +1,5 @@
 /*Aim : WAP to find the length of a string without using library function.
-Name : Mohammad Bahsarat Khan
+Name : Mohammad Basharat Khan
 Roll no : 09
 UIN : 241A009
 Division : A*/
