@@ -3,23 +3,19 @@ Roll No  : 9
 UIN      : 241A009
 Division : A*/
 #include <stdio.h>
-
 // Define a structure to hold employee details
 struct employee {
     int id;
     char name[50];
     float salary;
 };
-
 void add_employee() {
     struct employee emp;
     FILE *file = fopen("employee_database.txt", "a");
-
     if (file == NULL) {
         printf("Error opening file!\n");
         return;
     }
-
     // Input employee details
     printf("Enter Employee ID: ");
     scanf("%d", &emp.id);
@@ -36,9 +32,7 @@ void add_employee() {
 }
 void display_employees() {
     struct employee emp;
-
     FILE *file = fopen("employee_database.txt", "r");
-
     if (file == NULL) {
         printf("No employee records found!\n");
         return;
